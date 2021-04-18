@@ -1,0 +1,5 @@
+﻿  3лаба.cpp
+C:\Users\FySyZe\source\repos\3лаба\3лаба\3лаба.cpp(232,14): warning C4101: k11: неиспользованная локальная переменная
+C:\Users\FySyZe\source\repos\3лаба\3лаба\3лаба.cpp(232,19): warning C4101: k22: неиспользованная локальная переменная
+C:\Users\FySyZe\source\repos\3лаба\3лаба\3лаба.cpp(218): warning C4715: MyQueue::Sell: значение возвращается не при всех путях выполнения
+  3лаба.vcxproj -> C:\Users\FySyZe\source\repos\3лаба\Debug\3лаба.exe

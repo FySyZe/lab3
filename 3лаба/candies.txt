@@ -1,0 +1,4 @@
+peppermint_candy 924 241 4.9
+chocolate_candy 521 543 3.6
+mega_drive 435 462 5
+bird's_milk 241 352 4.1
